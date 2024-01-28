@@ -1,0 +1,1 @@
+if (mSize == 0) return;
